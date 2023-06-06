@@ -1,4 +1,4 @@
 # stepik_auto_tests_course
 This is homework.
 
-And i don't have true story
+I am add test from stepik course
